@@ -1,0 +1,24 @@
+body {
+  background-color: #FFBDB0;
+}
+
+h1 {
+  color: #fff3f2;
+  margin-left: 20px;
+  text-shadow: 5px 5px 10px #8a170e;
+}
+div {
+  border: 9px solid #FFDD61;
+  border-style: dotted;
+  padding: 50px;
+  margin: 20px;
+}
+#second{
+  border: 9px solid #80dbff;
+  border-style: outset;
+  width: 400px;
+  padding: 50px;
+  margin: 10px;
+  color: #287594;
+  background: #bdecff;
+}
